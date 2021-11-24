@@ -37,3 +37,13 @@
     transition: transform 0.5s;
     transform-style: preserve-3d;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img {
+    width: 80x;
+    height: 93vh;
+}
