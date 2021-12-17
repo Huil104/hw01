@@ -14,8 +14,8 @@
 }
 
 .flip-card{
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
 }
 
 .flip-card-front{
@@ -44,6 +44,6 @@
     box-sizing: border-box;
 }
 .carousel-item img {
-    width: 80x;
-    height: 93vh;
+    width: 180x;
+    height: 193vh;
 }
